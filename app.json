@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FaceTn",
+    "slug": "FaceTn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FaceTn"
+}
